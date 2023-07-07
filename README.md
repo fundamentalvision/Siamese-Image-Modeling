@@ -7,4 +7,6 @@ By [Chenxin Tao](https://scholar.google.com/citations?user=sXHFIBkAAAAJ&hl=zh-CN
 [Jifeng Dai](https://jifengdai.org/)
 
 This is the official implementation of [Siamese Image Modeling for Self-Supervised Vision Representation Learning
-](https://arxiv.org/pdf/2206.01204.pdf). Code will come soon.
+](https://arxiv.org/pdf/2206.01204.pdf). 
+
+Code has been released in another repo (https://github.com/OpenGVLab/Siamese-Image-Modeling). If you have further questions, please open an issue in that repo.
